@@ -1,0 +1,3 @@
+[submodule "3rdparty/confluent-kafka-go"]
+	path = 3rdparty/confluent-kafka-go
+	url = git@github.com:confluentinc/confluent-kafka-go.git
