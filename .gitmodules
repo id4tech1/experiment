@@ -1,3 +1,6 @@
 [submodule "3rdparty/confluent-kafka-go"]
 	path = 3rdparty/confluent-kafka-go
 	url = git@github.com:confluentinc/confluent-kafka-go.git
+[submodule "3rdparty/cpp_redis"]
+	path = 3rdparty/cpp_redis
+	url = git@github.com:Cylix/cpp_redis.git
